@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waybill-gen/static/css/main.2d4d4c48.chunk.css",
+    "main.js": "/waybill-gen/static/js/main.65a4d0bc.chunk.js",
+    "main.js.map": "/waybill-gen/static/js/main.65a4d0bc.chunk.js.map",
+    "runtime-main.js": "/waybill-gen/static/js/runtime-main.39d85afa.js",
+    "runtime-main.js.map": "/waybill-gen/static/js/runtime-main.39d85afa.js.map",
+    "static/js/2.8d619b4c.chunk.js": "/waybill-gen/static/js/2.8d619b4c.chunk.js",
+    "static/js/2.8d619b4c.chunk.js.map": "/waybill-gen/static/js/2.8d619b4c.chunk.js.map",
+    "index.html": "/waybill-gen/index.html",
+    "precache-manifest.72f94ce16d36563bef1311b3a5256ad4.js": "/waybill-gen/precache-manifest.72f94ce16d36563bef1311b3a5256ad4.js",
+    "service-worker.js": "/waybill-gen/service-worker.js",
+    "static/css/main.2d4d4c48.chunk.css.map": "/waybill-gen/static/css/main.2d4d4c48.chunk.css.map",
+    "static/js/2.8d619b4c.chunk.js.LICENSE.txt": "/waybill-gen/static/js/2.8d619b4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39d85afa.js",
+    "static/js/2.8d619b4c.chunk.js",
+    "static/css/main.2d4d4c48.chunk.css",
+    "static/js/main.65a4d0bc.chunk.js"
+  ]
+}
